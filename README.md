@@ -7,7 +7,9 @@
 </p>
   
 <p align="center">
-I'm a software developer who is passionate about creating technology.
+  I'm a software developer who is passionate about creating technology.
 </p>
 
-<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="center" width="25%"/>
+<p align="center">
+  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" width="25%"/>
+</p>
