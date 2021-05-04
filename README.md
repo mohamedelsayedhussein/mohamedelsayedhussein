@@ -1,9 +1,18 @@
 
 <h1 align="center">Hi I'm Mohamed elsayed 👋</h1>
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/mohamedelsayedhussein">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+    "/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-elsayed-6055b2173/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100001110270139">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+"/>
+  </a>
 </p>
   
 <p align="center">
@@ -13,3 +22,4 @@
 <p align="center">
   <img src="profile-img.png" width="25%"/>
 </p>
+
