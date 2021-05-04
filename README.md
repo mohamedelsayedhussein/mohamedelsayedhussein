@@ -6,8 +6,8 @@
   <a href=""><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
   
-<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="center" width="25%"/>
 
-<p align="right">
+<p align="center">
 I'm a software developer who is passionate about creating technology.
 </p>
