@@ -10,4 +10,4 @@
 I'm a software developer who is passionate about creating technology.
 </p>
 
-<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" />
+<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" width="25%"/>
