@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" width="25%"/>
+  <img src="profile-img.png" width="25%"/>
 </p>
