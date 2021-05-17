@@ -17,6 +17,6 @@
 </p>
 
 <p align="center">
-  <img src="profile-img.png" width="25%"/>
+  <img src="avatar.jpeg" width="25%"/>
 </p>
 
