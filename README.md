@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="avatar.jpeg" width="25%"/>
+</p>
+
 <h1 align="center">Hi I'm Mohamed elsayed 👋</h1>
 <p align="center">
   <a href="https://github.com/mohamedelsayedhussein">
@@ -15,8 +19,3 @@
 <p align="center">
   I'm a software developer who is passionate about creating technology.
 </p>
-
-<p align="center">
-  <img src="avatar.jpeg" width="25%"/>
-</p>
-
